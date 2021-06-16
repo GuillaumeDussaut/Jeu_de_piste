@@ -18,6 +18,10 @@ body{
     position: relative;
     top: 60px;
 }
+.binaire a{
+    text-decoration: none;
+    color: black;
+}
 .footer{
     background-color: black;
     height: 120px;
