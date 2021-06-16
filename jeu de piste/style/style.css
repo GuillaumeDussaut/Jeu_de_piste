@@ -10,6 +10,13 @@ body{
 }
 .header h1{
     color: white;
+    position: relative;
+    top: 60px;
+}
+.header h4{
+    color: white;
+    position: relative;
+    top: 60px;
 }
 .footer{
     background-color: black;
@@ -21,5 +28,9 @@ body{
 .footer a{
     text-decoration: none;
     color: black;
-
+}
+.footer p{
+    position: relative;
+    top: 20px;
+    color: white;
 }
